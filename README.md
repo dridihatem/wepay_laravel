@@ -2,6 +2,8 @@
 
 WePay / ClicToPay invoice checkout for Laravel. Installs into `vendor` and auto-registers the service provider.
 
+**Author:** [Dridi Hatem](https://dawebcompany.tn) · [dridihatem@gmail.com](mailto:dridihatem@gmail.com) · [dawebcompany.tn](https://dawebcompany.tn)
+
 ## Install from Git (Composer)
 
 In your Laravel app `composer.json`, add the repository and dependency:

@@ -4,6 +4,10 @@ namespace WepayCheckout;
 
 use Illuminate\Support\ServiceProvider;
 
+/**
+ * @author Dridi Hatem <dridihatem@gmail.com>
+ * @link https://dawebcompany.tn
+ */
 class WepayCheckoutServiceProvider extends ServiceProvider
 {
     public function register(): void
