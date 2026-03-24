@@ -10,7 +10,7 @@ In your Laravel app `composer.json`, add the repository and dependency:
 "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/YOUR_USER/YOUR_REPO.git"
+        "url": "https://github.com/dridihatem/wepay_laravel.git"
     }
 ],
 "require": {
